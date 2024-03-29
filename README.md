@@ -14,11 +14,11 @@
 </p>
 <p>
   dependencies - 
-  chezmoi 
-  rebos
-  ```
-  git clone https://github.com/harshborana11/dotfiles ~/.cache/chezmoi
-  chezmoi apply 
-  rebos gen current build #idk how to use rebos i jsut got all the pakages in it
-  ```
+  <br>chezmoi 
+  <br>rebos
+  <br>
+  <br>-git clone https://github.com/harshborana11/dotfiles ~/.cache/chezmoi
+  <br>-chezmoi apply 
+  <br>-rebos gen current build #idk how to use rebos i jsut got all the pakages in it
+  
 </p>
