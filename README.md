@@ -12,3 +12,13 @@
     <br/>
   </p>
 </p>
+<p>
+  dependencies - 
+  chezmoi 
+  rebos
+  ```
+  git clone https://github.com/harshborana11/dotfiles ~/.cache/chezmoi
+  chezmoi apply 
+  rebos gen current build #idk how to use rebos i jsut got all the pakages in it
+  ```
+</p>
