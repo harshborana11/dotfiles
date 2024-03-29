@@ -1,0 +1,127 @@
+: 1711282537:0;nvim .config/hypr
+: 1711282857:0;waybar
+: 1711282887:0;nohup waybae
+: 1711282890:0;nohup waybar
+: 1711282900:0;waybar
+: 1711282950:0;waybar -s .config/waybar/themes/Catppuccin-Mocha.css
+: 1711282985:0;waybar -c .config/waybar -s .config/waybar/themes/Catppuccin-Mocha.css
+: 1711282996:0;waybar -c .config/waybar/config.jsonc -s .config/waybar/themes/Catppuccin-Mocha.css
+: 1711283466:0;wlogout
+: 1711284108:0;cd Hyprdots
+: 1711284115:0;cd Scripts
+: 1711284135:0;./install.sh -r
+: 1711284427:0;wlogout
+: 1711284621:0;nvim .config/hypr
+: 1711284723:0;yay -S cava spotify-adblock-git spicetify-cli 
+: 1711285022:0;yay -S htop
+: 1711285029:0;htop
+: 1711285082:0;yay -S musikcube
+: 1711286127:0;yay -
+: 1711286133:0;yay -S google-chrome
+: 1711286267:0;yay -S faustus
+: 1711286320:0;yay -S asusctl
+: 1711286507:0;yay -S tuf-controller
+: 1711289353:0;asusctl
+: 1711289357:0;yay -S asusctl
+: 1711289396:0;powerprofilesctl
+: 1711289408:0;powerprofilesctl set power-saver
+: 1711289410:0;powerprofilesctl
+: 1711290043:0;yay -Sy hyprdots-ctl-git
+: 1711290279:0;powerprofilesctl
+: 1711290282:0;yay -Sy hyprdots-ctl-git
+: 1711290677:0;asusctl
+: 1711290683:0;sudo asusctl
+: 1711290724:0;yay -S rust
+: 1711290731:0;sudo asusctl
+: 1711291713:0;nvim .config/hypr
+: 1711330620:0;yay -S hyprcursor
+: 1711330647:0;hyprcursor-util
+: 1711330652:0;hyprcursor-util -h
+: 1711330705:0;sudo useradd personal-dots
+: 1711330723:0;passwd personal-dots 
+: 1711330728:0;sudo passwd personal-dots 
+: 1711330870:0;swww
+: 1711330875:0;swww init
+: 1711330896:0;cava
+: 1711330914:0;musikcube 
+: 1711330951:0;yay -S cava-git
+: 1711331047:0;cava
+: 1711331162:0;yay -R cava
+: 1711331166:0;yay -S cava-git
+: 1711331395:0;cava
+: 1711331403:0;yay -S cava-git
+: 1711331446:0;sudo rm /var/lib/pacman/db.lck
+: 1711331479:0;sudo rm -r /usr/lib/debug/usr/bin/cava.debug
+: 1711331480:0;sudo rm /var/lib/pacman/db.lck
+: 1711331485:0;yay -S cava-git
+: 1711331513:0;cava
+: 1711331573:0;nvim .config/hypr
+: 1711331843:0;yay -S gsettings
+: 1711331997:0;cava
+: 1711332141:0;git clone https://github.com/l3ct3r/wallpapers Pictures/wallpapers
+: 1711332192:0;git clone https://github.com/D3Ext/aesthetic-wallpapers Pictures/Wallpapers
+: 1711332258:0;cd Pictures/Wallpapers
+: 1711332259:0;ls
+: 1711332264:0;cd images
+: 1711332265:0;ls
+: 1711332304:0;cp forest.png ~/.config/swww/Rose-Pine/
+: 1711332372:0;cp Pictures/Wallpapers/images/red-forest.jpg ~/.config/swww/Rose-Pine/
+: 1711332423:0;yay -S foliate 
+: 1711332472:0;nvim .config/hypr
+: 1711332544:0;yay -S gradien-git
+: 1711332553:0;yay -S gradience-git
+: 1711332685:0;asusctl
+: 1711332720:0;asusctl RUST_BACKTRACE=1
+: 1711332736:0;asusctl -h
+: 1711332746:0;yay -S asusctl-git
+: 1711332752:0;yay -R asusctl
+: 1711332783:0;yay -S python-cssutils
+: 1711332847:0;nvim .config/hypr
+: 1711333021:0;sudo pacman -Syu'\
+\
+\
+\
+\
+\
+\
+;\
+;\
+'
+: 1711333029:0;sudo pacman -Syu\
+\
+\
+\
+\
+\
+\
+;\
+;\
+'\
+'
+: 1711333042:0;sudo pacman -Syu
+: 1711333197:0;sudo pacman -U Downloads/python-cssutils-2.9.0-1-any.pkg.tar.zst
+: 1711333490:0;yay -S freedownloadmanage
+: 1711333492:0;yay -S freedownloadmanager
+: 1711334014:0;sudo rm /var/lib/pacman/db.lck
+: 1711334161:0;fdm
+: 1711336341:0;swww init
+: 1711336354:0;sudo user 
+: 1711336364:0;sudo users
+: 1711336388:0;sudo usermod harsh 
+: 1711336411:0;sudo usermod -a personal-dots 
+: 1711336419:0;sudo usermod -a -G personal-dots 
+: 1711336435:0;sudo usermod  -G -a personal-dots 
+: 1711336449:0;sudo usermod  -G 
+: 1711336464:0;sudo usermod  -G sudo personal-dots 
+: 1711336478:0;ls /home/
+: 1711336487:0;sudo useradd personal-dots
+: 1711336541:0;sudo userdel personal-dots
+: 1711336550:0;sudo useradd -m personal-dots
+: 1711336559:0;sudo passwd personal-dots 
+: 1711336813:0;sudo rm /home/personal-dots/.config
+: 1711336821:0;sudo rm -r /home/personal-dots/.config
+: 1711450328:0;nvim .config/hypr
+: 1711450454:0;sudo cp .bashrc Documents
+: 1711450473:0;sudo cp /home/personal-dots/.bashrc
+: 1711450479:0;sudo cp /home/personal-dots/.bashrc ~/
+: 1711450493:0;sudo cp /home/personal-dots/.bashrc /home/harsh
