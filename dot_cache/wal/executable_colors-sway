@@ -1,0 +1,21 @@
+set $wallpaper /home/personal-dots/Pictures/em-rofi.webp
+
+set $background #0F1827
+set $foreground #c6bece
+
+set $color0 #0F1827
+set $color1 #234083
+set $color2 #2C4B8C
+set $color3 #375EA7
+set $color4 #59669B
+set $color5 #8B79A4
+set $color6 #7189BC
+set $color7 #c6bece
+set $color8 #8a8590
+set $color9 #234083
+set $color10 #2C4B8C
+set $color11 #375EA7
+set $color12 #59669B
+set $color13 #8B79A4
+set $color14 #7189BC
+set $color15 #c6bece

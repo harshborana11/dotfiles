@@ -1,0 +1,23 @@
+" Special
+let wallpaper  = "/home/personal-dots/Pictures/em-rofi.webp"
+let background = "#0F1827"
+let foreground = "#c6bece"
+let cursor     = "#c6bece"
+
+" Colors
+let color0  = "#0F1827"
+let color1  = "#234083"
+let color2  = "#2C4B8C"
+let color3  = "#375EA7"
+let color4  = "#59669B"
+let color5  = "#8B79A4"
+let color6  = "#7189BC"
+let color7  = "#c6bece"
+let color8  = "#8a8590"
+let color9  = "#234083"
+let color10 = "#2C4B8C"
+let color11 = "#375EA7"
+let color12 = "#59669B"
+let color13 = "#8B79A4"
+let color14 = "#7189BC"
+let color15 = "#c6bece"
