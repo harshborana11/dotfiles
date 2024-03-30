@@ -1,8 +1,0 @@
-# Cargo
-
-install = "cargo install #:?"
-remove = "cargo uninstall #:?"
-
-plural_name = "crates"
-
-config = { many_pkg_args = true }
