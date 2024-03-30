@@ -42,7 +42,7 @@ you can search these in  your pakage manager
 ### settingup dotfiles 
 
 ```bash
-    chezmoi init --apply --verbose git@github.com:harshborana11/dotfiles.git
+ chezmoi init --apply --verbose git@github.com:harshborana11/dotfiles.git
 ```
 
 ### updating dotfiles 
