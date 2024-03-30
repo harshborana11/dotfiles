@@ -13,7 +13,7 @@
   </p>
 </p>
 
-## Dot files
+# Dot files
   
 Just some normal dotfiles for arch hyprland
 
