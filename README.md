@@ -12,8 +12,7 @@
     <br/>
   </p>
 </p>
-<p>
- # Dot files
+ ## Dot files
   
 Just some normal dotfiles for hyprland arch
 
@@ -49,4 +48,3 @@ you can search these in  your pakage manager
 ```bash 
  chezmoi update
 ```
-</p>
