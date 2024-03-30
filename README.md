@@ -49,3 +49,8 @@ you can search these in  your pakage manager
 ```bash 
  chezmoi update
 ```
+
+### uou should probably run this command after the setup is complete 
+```bash 
+ bash ~/.config/hypr/randwall.sh
+```
