@@ -14,6 +14,7 @@
 </p>
 <p>
  # Dot files
+  
 Just some normal dotfiles for hyprland arch
 
 
